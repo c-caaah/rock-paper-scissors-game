@@ -1,5 +1,7 @@
 # Rock-Paper-Scissors Game
 
+<img src="logo-hacktoberfest.svg">
+
 ```[English]```
 repository for game development using python language :)
 
